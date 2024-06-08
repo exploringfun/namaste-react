@@ -1,0 +1,11 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Ravinandan",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ravi",
+  "license": "ISC"
+}
